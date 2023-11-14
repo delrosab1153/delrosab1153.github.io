@@ -16,6 +16,7 @@
 <p>This is my first full-time semester in computer programming and development.</p>
 
 <p>Here's an image.</p>
+<img src="orangecat01.jpeg"></img>
 
 </body>
 </html>
