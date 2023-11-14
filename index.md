@@ -15,8 +15,11 @@
 
 <p>This is my first full-time semester in computer programming and development.</p>
 
-<p>Here's an image.</p>
+<p>Here's an image of Sir Fluffington.</p>
+
 <img src="orangecat01.jpeg"></img>
+
+<p>Sir Fluffington bids you fair travels.</p>
 
 </body>
 </html>
