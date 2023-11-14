@@ -19,7 +19,7 @@
 
 <img src="orangecat01.jpeg"></img>
 
-<p>Sir Fluffington bids you fair travels.</p>
+<p>Sir Fluffington bids you safe travels.</p>
 
 </body>
 </html>
