@@ -17,7 +17,7 @@
 
 <p>Here's an image of Sir Fluffington.</p>
 
-<img src="orangecat01.jpeg">
+<img src="orangecat01.jpeg" alt="Sir Fluffington the Orange Cat">
 
 <p>Sir Fluffington bids you safe travels.</p>
 
